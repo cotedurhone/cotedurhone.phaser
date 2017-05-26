@@ -1,0 +1,23 @@
+body {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url("../img/header_bg.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+#header-text {
+    color: white;
+    font-size: 70px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    top: 25%;
+    width: 60%;
+}
